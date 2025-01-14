@@ -7,8 +7,8 @@ The data supports several use cases in location analyses, such as density of ret
 ## Usage
 
 Vietnam's refined boundaries:
-- *VN_Boundaries_District.json*: boundaries of each district, with a distinct `dist_id`, and names of relevant administrative levels (with and without diacritics)
-- *VN_Boundaries_Ward.json*: boundaries of each ward, with a distinct `dist_id` and `ward_id`, and names of relevant administrative levels (with and without diacritics)
+- **VN_Boundaries_District.json**: boundaries of each district, with a distinct `dist_id`, and names of relevant administrative levels (with and without diacritics)
+- **VN_Boundaries_Ward.json**: boundaries of each ward, with a distinct `dist_id` and `ward_id`, and names of relevant administrative levels (with and without diacritics)
 
 Vietnam's population:
 - *VN_Population_ward.csv*: depicts population as a whole and per urban or rural area, in addition to population density, in each ward
