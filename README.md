@@ -21,5 +21,5 @@ Vietnam's population:
 
 ## Data sources
 
-VN population data is synthesized from [Population and Housing Census 01/4/2019](http://portal.thongke.gov.vn/khodulieudanso2019).
-VN boundaries are sourced from [GADM maps and data](https://gadm.org) and the CityScope project run by [City Science Lab @ Ho Chi Minh City](https://www.media.mit.edu/projects/city-science-lab-ho-chi-minh-city/overview/).
+- VN population data is synthesized from [Population and Housing Census 01/4/2019](http://portal.thongke.gov.vn/khodulieudanso2019).
+- VN boundaries are sourced from [GADM maps and data](https://gadm.org) and the CityScope project run by [City Science Lab @ Ho Chi Minh City](https://www.media.mit.edu/projects/city-science-lab-ho-chi-minh-city/overview/).
