@@ -11,9 +11,9 @@ Vietnam's refined boundaries:
 - **VN_Boundaries_Ward.json**: boundaries of each ward, with a distinct `dist_id` and `ward_id`, and names of relevant administrative levels (with and without diacritics)
 
 Vietnam's population:
-- **VN_Population_ward.csv**: depicts population as a whole and per urban or rural area, in addition to population density, in each ward
-- **VN_HouseholdPop_ward.csv**: depicts the number of household by its size as a whole and per urban or rural area in each ward
-- **VN_YoungPop_dist.csv**: depicts population by age (15-34 years of age) as a whole and per urban or rural area, in addition to population density, in each ward
+- **VN_Population_ward.csv**: depicts population as a whole and per urban or rural area, in addition to population density, in each ward, with a distinct `ward_id`
+- **VN_HouseholdPop_ward.csv**: depicts the number of household by its size as a whole and per urban or rural area in each ward, with a distinct `ward_id`
+- **VN_YoungPop_dist.csv**: depicts population by age (15-34 years of age) as a whole and per urban or rural area, in addition to population density, in each district, with a distinct `dist_id`
 
 ## Example
 
